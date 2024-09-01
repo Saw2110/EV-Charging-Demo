@@ -1,3 +1,1 @@
-# ev_charging_finder
-
-A new Flutter project.
+# EV Charging Station Finder
